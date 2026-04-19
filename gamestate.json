@@ -1,5 +1,6 @@
 {
     "attempts_made": 0,
-    "history" : [],
-    "target_word" : ""
+    "target_word": "",
+    "history": [],
+    "won": false
 }
